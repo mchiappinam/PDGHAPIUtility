@@ -1,0 +1,13 @@
+Twitter:
+  Servidor: " [DayZ]"
+  TweetOnEnable: true
+  TweetOnEnableText: "O SERVIDOR ESTÁ OPERACIONAL!"
+  CostumeKey: "WdX82A6tVo9Mt6ga4jQhExZcS"
+  CostumeSecret: "siTkJp4PBgf6iH8W1t0hcDYiufASvbG0O9eMwM8NzIZxdbtU81"
+  Token: "911023429859647489-fsIu0ZAR4sfGqCAz5rCWDZ8hZet449P"
+  TokenSecret: "0c9AyIVOWLJBPH8CEvM4jNQCScVcE54xTErK6Oc7msltX"
+Email:
+  Remetente: "naoresponda@pdgh.com.br"
+  Senha: ""
+  Host: "mail.pdgh.com.br"
+  Porta: "25"
